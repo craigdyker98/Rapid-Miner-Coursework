@@ -1,0 +1,4 @@
+Predicting Opioid Overprescription - RapidMiner Process
+
+This project leverages DEA data and machine learning models in RapidMiner to predict opioid overprescription in the U.S., focusing on identifying key characteristics linked to excessive prescribing. The workflow involves meticulous data cleaning, preprocessing, and the application of Naive Bayes, Decision Tree, and Logistic Regression models. Each step, from handling missing values and encoding categorical data to detecting outliers and splitting the dataset, ensures high-quality inputs for model training. The performance of each model is evaluated and compared, providing insights into the most effective approach for identifying patterns in overprescription. The project highlights the importance of data-driven methods in addressing public health challenges and aims to contribute to better regulatory oversight.
+
